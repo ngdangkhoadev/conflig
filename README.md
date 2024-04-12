@@ -1,1 +1,2 @@
-# conflig nhanh main thay doi
+conflig nhanh main 1
+
